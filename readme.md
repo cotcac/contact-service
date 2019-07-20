@@ -17,4 +17,4 @@ It is complately independent so make a service out of it.
 # api
 
 ## post a contact
-post: ![Alt of the image](doc/images/contact-post.jpg)
+![Alt of the image](doc/images/contact-post.jpg)
